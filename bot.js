@@ -26,5 +26,5 @@ client.on('message', msg => {
 
 //initialize bot connect to servers
 
-client.login(process.env.DISCORD_TOKEN);
+//client.login(process.env.DISCORD_TOKEN);
 
