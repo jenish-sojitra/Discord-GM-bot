@@ -1,0 +1,1 @@
+A bot that serves up pure Alpha on the Exodus channel. We only have Good Mornings here, so of course, the bot will pass along the positive vibes and tell you GM if you say GM! 
